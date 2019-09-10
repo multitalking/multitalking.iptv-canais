@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:0 group-title="canais multitalking"
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/19/04/10/17/04/3935621.jpg" group-title="Filmes" ,Ma
+http://thor.lhmtv.gq/filmes/ma-dub-1080p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://studiosol-a.akamaihd.net/uploadfile/letras/playlists/8/4/e/6/84e6c0f13dae4998b2d2ad1182b9dde2.jpg" group-title="Filmes" ,Velozes & Furiosos: Hobbs & Shaw
+http://thor.lhmtv.gq/filmes/velozesfuriosos2019-dub-720p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/1200/1*QsgdcJkWGjSUVNlT91zzPw.jpeg" group-title="Filmes" ,Kardec: A Historia por tras do Nome
+http://tyr.lhmtv.gq/redecanais/KRDCAHSTPRTRSDNME.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/oimpacto.com.br/wp-content/uploads/2019/06/GZA2-Poster-Teaser_4000x2490-1.jpg" group-title="Filmes" ,Godzilla II: Rei dos Monstros
+http://tyr.lhmtv.gq/redecanais/GDZLAOREDSMNSTS.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/blu-ray-4k-ultra-hd-hellboy-2-exercito-dourado-import-novo-D_NQ_NP_816401-MLB30293998062_052019-F.jpg" group-title="Filmes" ,Hellboy 2019 HD
+http://thor.lhmtv.gq/filmes/hellboy-dub-1080p.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/19/05/07/20/54/2901026.jpg" group-title="Filmes" ,O Rei Leao
+http://thor.lhmtv.gq/filmes/reileaots-dub-720p.mp4?LHMTv
+
+
+
+http://abre.ai/lhmtv-filmes
