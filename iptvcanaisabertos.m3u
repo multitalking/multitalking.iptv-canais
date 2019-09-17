@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:0 group-title="canais multitalking"
 
+#EXTINF:0 type="stream" channelId="2467" group="(multitalking)" logo="https://tvcultura.com.br/_img/tvcultura/programas_abertura_TV.jpg", TV CULTURA
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TV SBT" tvg-name="TV SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/eb/SBT_Interior.png/200px-SBT_Interior.png" group-title="ABERTOS",TV SBT PE HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1692704869_b216000_sleng.m3u8
 
@@ -34,5 +37,3 @@ http://173.236.10.10:1935/rbtv/rbtv/chunklist_w712068166.m3u8
 #EXTINF:-1 tvg-id="TV DISNEY JUNIOR" tvg-name="TV DISNEY JUNIOR" tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="INFANTIL",TV DISNEY JUNIOR SP HD
 https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b2690048.m3u8
 
-#EXTINF:-1 tvg-id="TV DISNEY XD" tvg-name="TV DISNEY XD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="INFANTIL",TV DISNEY XD SP HD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,7f7978dabb948939a8a5b1b171ef599c;base64np;cyzcx3V5SZ4JJwc!/amlst:cywk3mgyTJ8WZ4s4/chunklist_b1089536.m3u8
